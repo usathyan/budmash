@@ -79,7 +79,7 @@ BudMash decodes the molecular fingerprint of strains you love, then scans any di
 
 Your data stays on your device. Menu images are sent to AI for processing, then discarded. No accounts, no tracking, no ads.
 
-[Read full privacy policy](privacy)
+[Read full privacy policy](https://usathyan.github.io/budmash/privacy)
 
 ---
 
