@@ -10,7 +10,6 @@
 
 [![Version](https://img.shields.io/badge/version-4.1.2-blue)](#)
 [![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-green)](#)
-[![Tests](https://img.shields.io/badge/tests-259%20passing-brightgreen)](#)
 [![Strains](https://img.shields.io/badge/database-2,367%20strains-orange)](#)
 
 </div>
@@ -33,7 +32,7 @@ BudMash decodes the molecular fingerprint of strains you love, then scans any di
 
 2. **Find Your Match** — From the Home screen, tap **Near Me** to browse nearby dispensaries, **Scan Menu** to photograph a menu board, **From Gallery** to pick a screenshot, or **Search by Name** to look up strains directly.
 
-3. **Get Match Scores** — Every strain is ranked with simple badges: **Great** (80%+), **Good** (60-79%), **Fair** (40-59%), or **Low** (<40%). Toggle Advanced Mode in About for detailed scores and algorithm breakdowns.
+3. **Get Match Scores** — Every strain is ranked with simple badges: **Great** (80%+), **Good** (60-79%), **Fair** (40-59%), or **Low** (<40%).
 
 ---
 
@@ -60,10 +59,10 @@ BudMash decodes the molecular fingerprint of strains you love, then scans any di
 ## Key Features
 
 - **Simple match badges** — Great, Good, Fair, or Low at a glance
-- **Transparent operations** — see exactly where BudMash is searching in real-time: database, Leafly, web
+- **Transparent operations** — see exactly where BudMash is searching in real-time
 - **GPS dispensary discovery** — tap Near Me to find dispensaries sorted by distance
 - **AI-powered menu scanning** — photograph a menu board or pick a screenshot
-- **2,367 strains** in local database with 11-terpene profile analysis
+- **2,367 strains** in local database for instant lookup
 - **Privacy-first** — all data stored encrypted locally on your device. No accounts, no tracking, no ads
 
 ---
