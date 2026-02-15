@@ -8,7 +8,9 @@
 
 *Find new strains that deliver the effects you already love — backed by science.*
 
+[![Version](https://img.shields.io/badge/version-4.1.2-blue)](#)
 [![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-green)](#)
+[![Tests](https://img.shields.io/badge/tests-259%20passing-brightgreen)](#)
 [![Strains](https://img.shields.io/badge/database-2,367%20strains-orange)](#)
 
 </div>
@@ -19,7 +21,7 @@
 
 You walk into a dispensary. The menu has 50+ strains. **Which one matches what you like?**
 
-BudMash decodes the molecular fingerprint of strains you love, then scans any dispensary menu to find strains with matching terpene profiles. A 93% match means the chemistry aligns with what you've enjoyed before.
+BudMash decodes the molecular fingerprint of strains you love, then scans any dispensary menu to find strains with matching terpene profiles. Strains are ranked with clear badges — **Great**, **Good**, **Fair**, or **Low** — so you know at a glance what to try.
 
 **Stop guessing. Start matching.**
 
@@ -27,11 +29,11 @@ BudMash decodes the molecular fingerprint of strains you love, then scans any di
 
 ## How It Works
 
-1. **Build Your Profile** — Like strains you enjoy. BudMash extracts each strain's terpene profile and builds your ideal chemical signature.
+1. **Build Your Profile** — Go to the Profile tab, tap "+ Add", and pick 3-5 strains you've enjoyed. BudMash builds your terpene fingerprint automatically.
 
-2. **Scan Any Menu** — Screenshot your dispensary's flower menu. AI vision extracts strain names, then fetches terpene data from a database of 2,367 strains.
+2. **Find Your Match** — From the Home screen, tap **Near Me** to browse nearby dispensaries, **Scan Menu** to photograph a menu board, **From Gallery** to pick a screenshot, or **Search by Name** to look up strains directly.
 
-3. **Get Match Scores** — Every strain is scored against your profile using cosine similarity, euclidean distance, and pearson correlation.
+3. **Get Match Scores** — Every strain is ranked with simple badges: **Great** (80%+), **Good** (60-79%), **Fair** (40-59%), or **Low** (<40%). Toggle Advanced Mode in About for detailed scores and algorithm breakdowns.
 
 ---
 
@@ -57,12 +59,12 @@ BudMash decodes the molecular fingerprint of strains you love, then scans any di
 
 ## Key Features
 
-- **2,367 strains** in local database for instant lookup
-- **AI-powered menu scanning** extracts strain names from any screenshot
-- **11-terpene profile** analysis (myrcene, limonene, caryophyllene, etc.)
-- **Cross-platform** — Kotlin Multiplatform, native UI on both platforms
-- **Privacy-focused** — all profile data stored locally on device
-- **No accounts, no tracking, no ads**
+- **Simple match badges** — Great, Good, Fair, or Low at a glance
+- **Transparent operations** — see exactly where BudMash is searching in real-time: database, Leafly, web
+- **GPS dispensary discovery** — tap Near Me to find dispensaries sorted by distance
+- **AI-powered menu scanning** — photograph a menu board or pick a screenshot
+- **2,367 strains** in local database with 11-terpene profile analysis
+- **Privacy-first** — all data stored encrypted locally on your device. No accounts, no tracking, no ads
 
 ---
 
@@ -70,8 +72,8 @@ BudMash decodes the molecular fingerprint of strains you love, then scans any di
 
 | Platform | Download |
 |----------|----------|
-| **Android** | APK from [Releases](https://github.com/usathyan/cannabis-strain-analyzer/releases) |
-| **iOS** | TestFlight (coming soon) |
+| **Android** | [Google Play](https://play.google.com/store/apps/details?id=com.budmash.app) |
+| **iOS** | TestFlight (invite only) |
 
 ---
 
@@ -106,6 +108,6 @@ Have a question, found a bug, or want to request a feature?
 
 <div align="center">
 
-**BudMash** — *Where terpene science meets AI intelligence.*
+**BudMash v4.1.2** — *Where terpene science meets AI intelligence.*
 
 </div>
