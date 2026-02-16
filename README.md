@@ -8,7 +8,7 @@
 
 *Find new strains that deliver the effects you already love — backed by science.*
 
-[![Version](https://img.shields.io/badge/version-4.1.2-blue)](#)
+[![Version](https://img.shields.io/badge/version-4.1.3-blue)](#)
 [![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-green)](#)
 [![Strains](https://img.shields.io/badge/database-2,367%20strains-orange)](#)
 
@@ -44,9 +44,9 @@ BudMash decodes the molecular fingerprint of strains you love, then scans any di
 |------|---------|-------------|
 | <img src="screenshots/home.png" width="200"> | <img src="screenshots/profile.png" width="200"> | <img src="screenshots/dispensaries.png" width="200"> |
 
-| Scan Results | Strain Detail |
-|-------------|---------------|
-| <img src="screenshots/scan-results.png" width="200"> | <img src="screenshots/strain-detail.png" width="200"> |
+| Scan Results | Strain Detail | Advanced Profile |
+|-------------|---------------|-----------------|
+| <img src="screenshots/scan-results.png" width="200"> | <img src="screenshots/strain-detail.png" width="200"> | <img src="screenshots/strain-detail-advanced.png" width="200"> |
 
 </div>
 
@@ -103,6 +103,6 @@ Have a question, found a bug, or want to request a feature?
 
 <div align="center">
 
-**BudMash v4.1.2** — *Where terpene science meets AI intelligence.*
+**BudMash v4.1.3** — *Where terpene science meets AI intelligence.*
 
 </div>
