@@ -40,17 +40,13 @@ BudMash decodes the molecular fingerprint of strains you love, then scans any di
 
 <div align="center">
 
-### Android
+| Home | Profile | Dispensaries |
+|------|---------|-------------|
+| <img src="screenshots/home.png" width="200"> | <img src="screenshots/profile.png" width="200"> | <img src="screenshots/dispensaries.png" width="200"> |
 
-| Profile | Scan Results | Strain Detail |
-|---------|-------------|---------------|
-| <img src="screenshots/android-profile.png" width="200"> | <img src="screenshots/android-scan-results.png" width="200"> | <img src="screenshots/android-strain-detail.png" width="200"> |
-
-### iOS
-
-| Profile | Strain Detail |
-|---------|---------------|
-| <img src="screenshots/ios-profile.png" width="200"> | <img src="screenshots/ios-strain-detail.png" width="200"> |
+| Scan Results | Strain Detail |
+|-------------|---------------|
+| <img src="screenshots/scan-results.png" width="200"> | <img src="screenshots/strain-detail.png" width="200"> |
 
 </div>
 
